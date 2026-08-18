@@ -20,7 +20,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,mysql,nodejs,postgres" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,nodejs,postgres,supabase,vite,react,claude,antigravity" alt="Skills" />
 </p>
 
 ---
