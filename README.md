@@ -1,16 +1,69 @@
-<h1 align="center">Hi 👋, I'm Kauê</h1>
-<h3 align="center">at the moment i am studying to become a programmer</h3>
+<h1 align="center">Hi, I'm Kauê 👋</h1>
 
-- 🌱 I’m currently learning **Java**
+<h3 align="center">Developer in training 💻</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kaue-patrick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaue-patrick" height="30" width="40" /></a>
-<a href="https://instagram.com/kpatrick_brito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kpatrick_brito" height="30" width="40" /></a>
-<a href="https://discord.gg/kaneko0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaneko0" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Studying+to+become+a+programmer;Currently+learning+Java;Always+open+to+new+projects" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaneko23&show_icons=true&locale=en&layout=compact" alt="kaneko23" /></p>
+### 🚀 About me
+
+- 🔭 Currently studying **Computer Science**
+- 🌱 I'm learning **Java**
+- 💜 I enjoy working with front-end and exploring new tools
+- 📍 Porto Belo - SC, Brazil
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,mysql,nodejs,postgres" alt="Skills" />
+</p>
+
+---
+
+
+### 📌 Featured projects
+
+<p align="left">
+  <a href="https://github.com/Kaneko23/consulta-cnpj">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaneko23&repo=consulta-cnpj&theme=radical" />
+  </a>
+  <a href="https://github.com/Tutsdevtj/Runewriter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tutsdevtj&repo=Runewriter&theme=radical" />
+  </a>
+  <a href="https://github.com/Kaneko23/Gestao-OS-Manutencao-Porto-Belo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaneko23&repo=Gestao-OS-Manutencao-Porto-Belo&theme=radical" />
+  </a>
+</p>
+
+<br clear="left"/>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaneko23&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaneko23&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kaue-patrick-de-brito-605350252" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/kpatrick_brito" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by! ⭐</i></p>
