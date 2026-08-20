@@ -23,35 +23,9 @@
   <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,nodejs,postgres,supabase,vite,react" alt="Skills" />
 </p>
 
----
-
-
-### 📌 Featured projects
-
-<p align="left">
-  <a href="https://github.com/Kaneko23/consulta-cnpj">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaneko23&repo=consulta-cnpj&theme=radical" />
-  </a>
-  <a href="https://github.com/Tutsdevtj/Runewriter">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tutsdevtj&repo=Runewriter&theme=radical" />
-  </a>
-  <a href="https://github.com/Kaneko23/Gestao-OS-Manutencao-Porto-Belo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaneko23&repo=Gestao-OS-Manutencao-Porto-Belo&theme=radical" />
-  </a>
-</p>
-
-<br clear="left"/>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaneko23&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaneko23&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
----
 
 ### 🤝 Connect with me
 
